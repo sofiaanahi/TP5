@@ -1,0 +1,52 @@
+/* Estilos generales de la página */
+body {
+	margin: 0;
+	padding: 0;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+/* Estilos del encabezado */
+header {
+	background-color: #17d4a4;
+	padding: 25px;
+}
+
+/* Estilos de la barra de navegación */
+nav {
+	background-color: #f5f0f0;
+	color: #1804c6;
+	padding: 10px;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+nav ul li {
+	margin: 0 10px;
+}
+
+nav ul li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Estilos del contenido principal */
+section {
+	padding: 20px;
+}
+
+/* Estilos del pie de página */
+footer {
+	background-color: #063751;
+	color: #787575;
+	padding: 20px;
+	text-align: center;
+}
