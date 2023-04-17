@@ -52,3 +52,12 @@ footer {
 	padding: 20px;
 	text-align: center;
 }
+.cabecera{
+	width: 100px;
+	border-radius: 50px 50px 50px;
+}
+.padre-cabecera{
+	display: flex;
+	flex-direction: row;
+	
+}
