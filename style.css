@@ -61,3 +61,12 @@ footer {
 	flex-direction: row;
 	
 }
+.cabecera{
+	width: 100px;
+	border-radius: 50px 50px 50px;
+}
+.padre-cabecera{
+	display: flex;
+	flex-direction: row;
+	
+}
