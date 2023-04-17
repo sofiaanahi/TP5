@@ -1,4 +1,11 @@
 /* Estilos generales de la página */
+*{
+	color: white;
+}
+.editHeader{
+	background-color: blue;
+	padding: 0%;
+}
 body {
 	margin: 0;
 	padding: 0;
@@ -42,7 +49,7 @@ nav ul li a {
 section {
 	padding: 20px;
 	background-color: blue;
-	color: black;
+
 }
 
 /* Estilos del pie de página */
@@ -59,7 +66,6 @@ footer {
 .padre-cabecera{
 	display: flex;
 	flex-direction: row;
-	
 }
 .cabecera{
 	width: 100px;
@@ -68,5 +74,6 @@ footer {
 .padre-cabecera{
 	display: flex;
 	flex-direction: row;
+	background-color: black;
 	
 }
