@@ -41,6 +41,8 @@ nav ul li a {
 /* Estilos del contenido principal */
 section {
 	padding: 20px;
+	background-color: blue;
+	color: black;
 }
 
 /* Estilos del pie de página */
